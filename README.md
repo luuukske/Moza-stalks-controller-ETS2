@@ -5,5 +5,5 @@ the controller also makes it possible to tap the turn signal stalk, and it will 
 the turn signal also turn off if it physically returns (as it should).
 
 ## uses:
-- truck_telemetry: https://pypi.org/project/truck-telemetry/0.0.3
-- scscontroller (by tumppi): (can't find the source code...)
+- [truck_telemetry](https://pypi.org/project/truck-telemetry/0.0.3): used to get turnsignal data from the game.
+- [scscontroller](https://github.com/ETS2LA/scs-sdk-controller/tree/main): used to send commands to the game.
